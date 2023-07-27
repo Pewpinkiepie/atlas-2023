@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "CUPPET",
+	"description": "Brazilian toonvlogger and artist CoffeeEd's friend and mug",
+	"links": {
+		"website": [
+			"https://twitter.com/_Coffee_Ed_"
+		]
+	},
+	"path": {
+		"168-234": [
+			[
+				237,
+				282
+			],
+			[
+				237,
+				293
+			],
+			[
+				248,
+				293
+			],
+			[
+				248,
+				281
+			],
+			[
+				237,
+				281
+			],
+			[
+				235,
+				291
+			],
+			[
+				236,
+				288
+			],
+			[
+				242,
+				289
+			]
+		]
+	},
+	"center": {
+		"168-234": [
+			244,
+			285
+		]
+	}
+}
